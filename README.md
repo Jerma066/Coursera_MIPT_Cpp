@@ -1,2 +1,2 @@
-# Coursera_MIPT_Cpp
+# Coursera_Mipt_Cpp
 Специализация: Искусство разработки на современном C++
