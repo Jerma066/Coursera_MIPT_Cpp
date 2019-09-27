@@ -77,7 +77,6 @@ int main(){
 			for(int j=0; j<stop_count; j++){
                
 				cin >> v1[j];
-                		//cout << (m(bus))[j] << endl;
 			}	
 			m[bus] = v1;
 			vect.push_back(bus);
