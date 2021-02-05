@@ -1,0 +1,5 @@
+{
+  "base_requests": [ 
+  {"type": "Bus", "name": "828", "stops": ["Biryulyovo Zapadnoye"], "is_roundtrip": true}], 
+  "stat_requests": []
+}

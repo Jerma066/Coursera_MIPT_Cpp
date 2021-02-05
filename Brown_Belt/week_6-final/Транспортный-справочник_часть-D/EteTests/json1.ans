@@ -1,0 +1,35 @@
+[
+  {
+    "route_length": 5950,
+    "request_id": 1965312327,
+    "curvature": 1.36124,
+    "stop_count": 6,
+    "unique_stop_count": 5
+  },
+  {
+    "route_length": 27600,
+    "request_id": 519139350,
+    "curvature": 1.31808,
+    "stop_count": 5,
+    "unique_stop_count": 3
+  },
+  {
+    "request_id": 194217464,
+    "error_message": "not found"
+  },
+  {
+    "request_id": 746888088,
+    "error_message": "not found"
+  },
+  {
+    "buses": [],
+    "request_id": 65100610
+  },
+  {
+    "buses": [
+      "256",
+      "828"
+    ],
+    "request_id": 1042838872
+  }
+]
